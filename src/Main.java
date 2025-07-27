@@ -35,8 +35,8 @@ public class Main {
         // Задание 3 - Задача - Учителя
         System.out.println("\nЗадача 3");
         short teacher1 = 23; // ученика(оф) у Людмила Павловна
-        short teacher2 = 27; // ученика(оф) у АннаСергеевна
-        short teacher3 = 30; // ученика(оф) у ЕкатеринаАндреевна
+        short teacher2 = 27; // ученика(оф) у Анна Сергеевна
+        short teacher3 = 30; // ученика(оф) у Екатерина Андреевна
 
         System.out.println("На каждого ученика расчитано " + 480 / (teacher1 + teacher2 + teacher3) + " листов бумаги.");
 
